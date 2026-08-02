@@ -49,7 +49,7 @@ st.set_page_config(
     page_icon="📊",
     layout="wide",
 )
-REPORTS_DIR = "../reports"
+REPORTS_DIR = "reports"
 REQUIRED_FILES = [
     "scored_customers.csv", "churn_model.pkl", "kmeans_model.pkl", "scaler.pkl",
     "feature_columns.pkl", "input_schema.json", "model_metrics.csv",
