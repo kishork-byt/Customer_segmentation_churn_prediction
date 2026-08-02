@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+env/
+.env
+
+# Jupyter
+*_executed.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kaggle API credentials - NEVER commit this
+kaggle.json
+*.kaggle/
+
+# Large / generated files (optional - remove if you want to commit these)
+# reports/*.pkl
