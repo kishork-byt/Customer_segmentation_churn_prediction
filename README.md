@@ -12,6 +12,12 @@ interactive Streamlit web app to explore the results live.
 
 ---
 
+## 🚀 Live Demo
+
+**[Try the app here →]https://customer-churn-prediction-dashboard-9cf7um3qpdvknjkj7t9wu6.streamlit.app/**
+
+---
+
 ## Problem Statement
 
 Businesses lose significant revenue when they can't identify which customers are likely to
